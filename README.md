@@ -1,33 +1,7 @@
-# Ex.07 Software Product Company Website
-## Date:25-03-2024
+# Software Product Company Website
 
-## AIM:
-To develop a static company website to display the softwares and services provided by the company.
 
-## DESIGN STEPS:
-
-### Step 1:
-Requirement collection.
-
-### Step 2:
-Creating the layout using HTML and CSS.
-
-### Step 3:
-Updating the sample content.
-
-### Step 4:
-Choose the appropriate style and color scheme.
-
-### Step 5:
-Validate the layout in various browsers.
-
-### Step 6:
-Validate the HTML code.
-
-### Step 7:
-Publish the website in the given URL.
-
-## PROGRAM:
+## mainpage.html
 ```c
 mainpage.html
 <html>
@@ -200,10 +174,12 @@ mainpage.html
 <br>
 <br>
 <footer style="background-color:rgb(0, 0, 0);margin-top: 143; border: none;">
-    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by RAHUL K  212221043006</P>
+    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by KISHORE M  212221043003</P>
 </footer>
 </html>
-
+```
+## sign.html
+```c
 sign.html
 <!DOCTYPE html>
 <html>
@@ -352,11 +328,13 @@ sign.html
 <br>
 <br>
 <footer style="background-color:rgb(0, 0, 0); border: none;">
-    <P style="color:#ffffff ;"align="center">Designed and Devoloped by HAREESH R 23013706 </P>
+    <P style="color:#ffffff ;"align="center">Designed and Devoloped by KISHORE M </P>
 </footer>
 </html>
+```
 
-employee.html
+## employee.html
+```c
 <html>
 <title>ABOUT US</title>
 <style>
@@ -469,11 +447,13 @@ employee.html
 </DIV>
 </body>
 <footer style="background-color:rgb(0, 0, 0);margin-top: 143; border: none;">
-    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by RAHUL K 212221043006</P>
+    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by KISHORE M 212221043003</P>
 </footer>
 </html>
+```
 
-projects.html
+## projects.html
+```c
 products.html
 <html>
     <title>OUR PROJECTS</title>
@@ -553,11 +533,13 @@ products.html
     </center>
     </body>
     <footer style="background-color:rgb(253, 253, 253);margin-top: 64; border: none;">
-        <P style="color:#000000; ;"align="center">Designed and Devoloped by RAHUL K 212221043006 </P>
+        <P style="color:#000000; ;"align="center">Designed and Devoloped by KISHORE M 212221043003 </P>
     </footer>
 </html>
+```
 
-contact.html
+## contact.html
+```c
 <!DOCTYPE html>
 <html>
 <head>
@@ -720,10 +702,22 @@ border:2px solid rgb(0, 0, 0);
 <br>
 <br>
 <footer style="background-color:rgb(255, 255, 255);margin-top: 118px; border: none;">
-    <P style="color:#000000 ;"align="center">Designed and Devoloped by RAHUL K 212221043006 </P>    
+    <P style="color:#000000 ;"align="center">Designed and Devoloped by KISHORE M 212221043003 </P>    
 </footer>
 </html>
 ```
 ## OUTPUT:
+![Screenshot (12)](https://github.com/user-attachments/assets/24a6e27a-1185-46ed-aff8-9c4bb0447afa)
+![Screenshot (13)](https://github.com/user-attachments/assets/9371ce55-ebc3-4443-9802-9a931d099f93)
+![Screenshot (14)](https://github.com/user-attachments/assets/477e68c5-e41b-406b-bc30-99c31490b5e7)
+![Screenshot (15)](https://github.com/user-attachments/assets/9d9e3947-6a05-4733-9841-5005bb08406c)
+![Screenshot (16)](https://github.com/user-attachments/assets/db9747d9-ba69-4f19-ba22-01926438035c)
 
-## RESULT:
+
+
+
+
+
+
+
+
